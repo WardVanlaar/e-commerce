@@ -31,7 +31,7 @@ This App is covered under the following license: MIT
 Ward Vanlaar completed starter code provided by Xandromus as part of this Coding Bootcamp assignment.
 
 ## Tests
-The App's endpoints defined in the routes folder can be tested for example in Insomnia.
+The App's endpoints defined in the routes folder can be tested for example in Insomnia. This is illustrated in this video: https://www.loom.com/share/a0568f1a4db049af9a2f957be8dd41e0
 
 ## Questions
 For questions, contact me via email (wgvanlaar@gmail.com) or find me on GitHub (https://github.com/WardVanlaar)
