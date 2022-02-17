@@ -28,7 +28,7 @@ This is a test database that illustrates the use of associatons in a relational 
 This App is covered under the following license: MIT
 
 ## Credits
-Ward Vanlaar completed starter code provided as part of this Coding Bootcamp assignment.
+Ward Vanlaar completed starter code provided by Xandromus as part of this Coding Bootcamp assignment.
 
 ## Tests
 The App's endpoints defined in the routes folder can be tested for example in Insomnia.
