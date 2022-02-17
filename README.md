@@ -19,7 +19,7 @@ Programming languages used:
 
 
 ## Installation
-Clone this repo, install node.js, install MySQL, create an.env file in the root of the directory containing your database name (also update it in db/schema.sql), your MySQL username and password. Then type npm start in the terminal.
+Clone this repo, install node.js, install MySQL, create an .env file in the root of the project directory containing your database name (also update the in db/schema.sql), your MySQL username and password. Then type install npm in the terminal, source the schema in MySQL (source db/schema.sql) and seed the database in node (npm run seed). Then type npm start in the terminal.
 
 ## Usage
 This is a test database that illustrates the use of associatons in a relational database.
